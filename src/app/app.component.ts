@@ -36,7 +36,7 @@ const ELEMENT_DATA: User[] = [
     "address": "Preugungalatur, chennai",
     "phone": "6339092886",
     "website": "anastasia.net",
-    "company": "Firefox",
+    "company": "Filterx",
     "expanded": false
   },
   {
