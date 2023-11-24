@@ -1,0 +1,55 @@
+h1{
+    padding-top: 2%;
+    padding-bottom: 1%;
+    color: rgb(240, 60, 231);
+  }
+  
+  .wrapper{
+  
+    padding-left: 10%;
+    padding-right: 10%;
+    
+  }
+  .example-detail-row {
+    height: 0;
+  }
+  
+  .example-element-row td {
+    border-bottom-width: 0;
+  }
+  
+  .example-element-detail {
+    overflow: hidden;
+    display: flex;
+  }
+  
+  .input{
+    display: flex;
+    flex-direction: column;
+    padding-left: 2%;
+  }
+  
+  .input label {
+    margin-bottom: 6px;
+  }
+  
+  .input input {
+    padding: 4px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .button {
+    display: flex;
+    justify-content: space-between;
+    max-width: 400px; 
+    margin: auto; 
+  }
+  
+  .button button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  .button button + button {
+    margin-left: 10px; 
+  }
